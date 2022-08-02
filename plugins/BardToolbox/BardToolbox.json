@@ -1,0 +1,20 @@
+{
+  "Author": "BardToolbox",
+  "Name": "BardToolbox",
+  "InternalName": "BardToolbox",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "party",
+    "bard"
+  ],
+  "CategoryTags": [
+    "utility",
+    "other"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "IconUrl": "https://i.imgur.com/5BsJD3g.png",
+  "Punchline": "Bard party utilities."
+}
