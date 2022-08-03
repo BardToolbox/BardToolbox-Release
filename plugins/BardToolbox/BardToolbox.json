@@ -1,15 +1,10 @@
 {
-  "Disabled": false,
-  "Testing": false,
-  "ScheduledForDeletion": false,
-  "InstalledFromUrl": "",
-  "IsThirdParty": false,
-  "EffectiveVersion": "1.2.0.0",
   "Author": "BardToolbox",
   "Name": "BardToolbox",
-  "Punchline": "Bard party utilities.",
+  "InternalName": "BardToolbox",
+  "AssemblyVersion": "1.2.1.0",
   "Description": "",
-  "Changelog": null,
+  "ApplicableVersion": "any",
   "Tags": [
     "party",
     "bard"
@@ -18,25 +13,9 @@
     "utility",
     "other"
   ],
-  "IsHide": false,
-  "InternalName": "BardToolbox",
-  "AssemblyVersion": "1.2.0.0",
-  "TestingAssemblyVersion": null,
-  "IsTestingExclusive": false,
-  "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
-  "ApplicableVersion": "any",
   "DalamudApiLevel": 6,
-  "DownloadCount": 0,
-  "LastUpdate": 0,
-  "DownloadLinkInstall": null,
-  "DownloadLinkUpdate": null,
-  "DownloadLinkTesting": null,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
   "LoadPriority": 0,
-  "CanUnloadAsync": false,
-  "ImageUrls": null,
+  "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
   "IconUrl": "https://i.imgur.com/5BsJD3g.png",
-  "AcceptsFeedback": true,
-  "FeedbackMessage": null
+  "Punchline": "Bard party utilities."
 }
