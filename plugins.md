@@ -7,5 +7,4 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 
 | Author | Name | Description |
 |---------------|---------------|-----------------|
-| BardToolbox | [BardToolbox](https://github.com/BardToolbox/BardToolbox-Release) |  |
 
