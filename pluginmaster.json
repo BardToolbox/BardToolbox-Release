@@ -1,11 +1,12 @@
 [
   {
-    "Disabled": true,
+    "Disabled": false,
     "Testing": false,
     "ScheduledForDeletion": false,
     "InstalledFromUrl": "",
     "IsThirdParty": false,
-    "EffectiveVersion": "1.2.3.0",
+    "EffectiveVersion": "1.4.1.0",
+    "IsAvailableForTesting": false,
     "Author": "BardToolbox",
     "Name": "BardToolbox",
     "Punchline": "Bard party utilities.",
@@ -13,18 +14,31 @@
     "Changelog": null,
     "Tags": [
       "party",
-      "bard"
+      "bard",
+      "cpu",
+      "affinity",
+      "window",
+      "hack",
+      "cam",
+      "title",
+      "sync",
+      "broad",
+      "reso",
+      "form",
+      "midi",
+      "multi",
+      "layout"
     ],
     "CategoryTags": [
       "utility",
       "other"
     ],
     "InternalName": "BardToolbox",
-    "AssemblyVersion": "1.2.3.0",
+    "AssemblyVersion": "1.4.1.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 8,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "LoadPriority": 0,
@@ -38,7 +52,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 2635,
-    "LastUpdate": "1659559139",
+    "LastUpdate": "1661390247",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
