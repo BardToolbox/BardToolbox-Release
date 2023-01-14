@@ -5,7 +5,7 @@
     "ScheduledForDeletion": false,
     "InstalledFromUrl": "",
     "IsThirdParty": false,
-    "EffectiveVersion": "1.4.1.0",
+    "EffectiveVersion": "1.4.3.0",
     "IsAvailableForTesting": false,
     "Author": "BardToolbox",
     "Name": "BardToolbox",
@@ -34,7 +34,7 @@
       "other"
     ],
     "InternalName": "BardToolbox",
-    "AssemblyVersion": "1.4.1.0",
+    "AssemblyVersion": "1.4.3.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
     "ApplicableVersion": "any",
@@ -52,7 +52,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 2635,
-    "LastUpdate": "1661390247",
+    "LastUpdate": "1673557120",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
