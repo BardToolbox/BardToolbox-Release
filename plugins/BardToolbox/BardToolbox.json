@@ -2,7 +2,7 @@
   "Author": "BardToolbox",
   "Name": "BardToolbox",
   "InternalName": "BardToolbox",
-  "AssemblyVersion": "1.5.2.0",
+  "AssemblyVersion": "1.6.1.1",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
@@ -26,9 +26,10 @@
     "utility",
     "other"
   ],
+  "AcceptsFeedback": false,
   "DalamudApiLevel": 8,
   "LoadPriority": 0,
-  "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
+  "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
   "IconUrl": "https://i.imgur.com/5BsJD3g.png",
-  "Punchline": "Bard party utilities."
+  "Punchline": "An all-in-one toolbox, providing all the essentials bards & bands would need every day.\nSPECIAL THANKS to fellow bards and bands from FFXIV Bards & Bands Community. Join: discord.gg/ff14bard"
 }
