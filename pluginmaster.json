@@ -5,13 +5,13 @@
     "ScheduledForDeletion": false,
     "InstalledFromUrl": "",
     "IsThirdParty": false,
-    "EffectiveVersion": "1.7.1.1",
+    "EffectiveVersion": "1.7.2.0",
     "IsAvailableForTesting": false,
     "Author": "BardToolbox",
     "Name": "BardToolbox",
     "Punchline": "An all-in-one toolbox, providing all the essentials bards & bands would need every day.\nSPECIAL THANKS to MidiBard and FFXIV Bards & Bands Community. Join: discord.gg/ff14bard",
     "Description": "",
-    "Changelog": "NEW Features:\n\nAuto toggle allow list: enables you to have individual control over which characters should automatically accept party invites, teleport invites, and other requests.\n\nNew text command: /btb [residentialtravel|rt] <ward> → Travel to specified ward. Only usable when near a residential traveling aetheryte.\n\nNew text command: /btb sound [on|off|toggle] → Set game's master sound.\nThe issue related to the game system settings has been fixed.",
+    "Changelog": "Fixed the issue where non party leader not writing song title correctly when playing on multiple computers.\nFixed the issue when loading formation position under controller mode.\nFixed the issue with the world travel command caused by game updates.",
     "Tags": [
       "bard",
       "midi",
@@ -66,7 +66,7 @@
       "other"
     ],
     "InternalName": "BardToolbox",
-    "AssemblyVersion": "1.7.1.1",
+    "AssemblyVersion": "1.7.2.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
     "ApplicableVersion": "any",
@@ -84,7 +84,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 16187,
-    "LastUpdate": "1676574641",
+    "LastUpdate": "1681473459",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
