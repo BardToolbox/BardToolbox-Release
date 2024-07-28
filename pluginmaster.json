@@ -3,7 +3,7 @@
     "Author": "BardToolbox",
     "Name": "BardToolbox",
     "InternalName": "BardToolbox",
-    "AssemblyVersion": "2.0.2.0",
+    "AssemblyVersion": "2.0.3.0",
     "Description": "",
     "ApplicableVersion": "any",
     "Tags": [
@@ -69,7 +69,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 16187,
-    "LastUpdate": "1696500026",
+    "LastUpdate": "1722072206",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
