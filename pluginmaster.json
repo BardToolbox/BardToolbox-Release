@@ -3,7 +3,7 @@
     "Author": "BardToolbox",
     "Name": "BardToolbox",
     "InternalName": "BardToolbox",
-    "AssemblyVersion": "2.0.3.0",
+    "AssemblyVersion": "2.1.0.0",
     "Description": "",
     "ApplicableVersion": "any",
     "Tags": [
@@ -60,16 +60,16 @@
       "other"
     ],
     "AcceptsFeedback": false,
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 11,
     "LoadPriority": 0,
     "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
     "IconUrl": "https://i.imgur.com/5BsJD3g.png",
     "Punchline": "An all-in-one toolbox, providing all the essentials bards & bands would need every day.\nSPECIAL THANKS to MidiBard and FFXIV Bards & Bands Community. Join: discord.gg/ff14bard",
-    "Changelog": "Dawntrail, Dalamud API 10 Update\n- Added a command for entering/exiting house.\n\nThanks for your support!",
+    "Changelog": "Dawntrail 7.1, Dalamud API 11 Update\n\nThanks for your support!",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 16187,
-    "LastUpdate": "1722072206",
+    "LastUpdate": "1722164604",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/BardToolbox/BardToolbox-Release/master/plugins/BardToolbox/latest.zip"
