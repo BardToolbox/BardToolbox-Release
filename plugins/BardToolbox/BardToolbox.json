@@ -2,7 +2,7 @@
   "Author": "BardToolbox",
   "Name": "BardToolbox",
   "InternalName": "BardToolbox",
-  "AssemblyVersion": "2.1.0.0",
+  "AssemblyVersion": "2.1.1.0",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
@@ -74,5 +74,5 @@
   "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
   "IconUrl": "https://i.imgur.com/5BsJD3g.png",
   "Punchline": "An all-in-one toolbox, providing all the essentials bards & bands would need every day.\nSPECIAL THANKS to MidiBard and FFXIV Bards & Bands Community. Join: discord.gg/ff14bard",
-  "Changelog": "Dawntrail 7.1, Dalamud API 11 Update\n\nThanks for your support!"
+  "Changelog": "Minor bug fixes. Dawntrail 7.1, Dalamud API 11 Update\n\nThanks for your support!"
 }
