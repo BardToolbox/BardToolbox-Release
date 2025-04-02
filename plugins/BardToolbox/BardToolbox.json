@@ -2,9 +2,10 @@
   "Author": "BardToolbox",
   "Name": "BardToolbox",
   "InternalName": "BardToolbox",
-  "AssemblyVersion": "2.1.1.0",
+  "AssemblyVersion": "2.2.1.0",
   "Description": "",
   "ApplicableVersion": "any",
+  "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
   "Tags": [
     "bard",
     "midi",
@@ -13,50 +14,40 @@
     "music",
     "perform",
     "performance",
-
     "party",
     "teleport",
     "invite",
     "disband",
     "local",
-
     "hack",
     "cam",
     "camera",
     "camerahack",
-
     "window",
     "size",
     "title",
     "layout",
     "resolution",
-
     "cpu",
     "affinity",
-
     "sync",
     "key",
     "command",
     "broad",
     "broadcast",
-
     "multi",
     "multibox",
-
     "move",
     "movement",
     "follow",
     "formation",
-
     "auto",
     "login",
     "autologin",
     "travel",
-
     "macro",
     "macrochain",
     "item",
-
     "isboxer",
     "midibard",
     "sandbox",
@@ -68,11 +59,13 @@
     "utility",
     "other"
   ],
-  "AcceptsFeedback": false,
-  "DalamudApiLevel": 11,
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "RepoUrl": "https://discord.gg/h9Nt5NXZWz",
   "IconUrl": "https://i.imgur.com/5BsJD3g.png",
   "Punchline": "An all-in-one toolbox, providing all the essentials bards & bands would need every day.\nSPECIAL THANKS to MidiBard and FFXIV Bards & Bands Community. Join: discord.gg/ff14bard",
-  "Changelog": "Minor bug fixes. Dawntrail 7.1, Dalamud API 11 Update\n\nThanks for your support!"
+  "Changelog": "Update for Dawntrail 7.2, Dalamud API 12 Update\n\nThanks for your support!",
+  "AcceptsFeedback": false
 }
